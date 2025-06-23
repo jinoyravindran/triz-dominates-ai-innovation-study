@@ -64,7 +64,7 @@ This dataset is **freely available for research purposes**. When using this data
 
 ## 📞 Contact
 
-For questions about this research or dataset, please contact: [Your email]
+For questions about this research or dataset, please contact: Jinoy.Ravindran@gmail.com
 
 ---
 
